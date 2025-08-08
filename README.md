@@ -22,3 +22,6 @@ The Web Marketing Dashboard created in Tableau offers a comprehensive visual ana
 
 ## Outcome
 Overall, this Tableau dashboard serves as a centralized, interactive tool for monitoring website performance, identifying high-value content, detecting performance issues, and informing marketing and UX decisions. Its design ensures that executives, marketers, and analysts can quickly derive actionable insights without sifting through raw data.
+
+<img width="1185" height="795" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/575e2ade-377d-4f39-b391-f70c0b726cdc" />
+
